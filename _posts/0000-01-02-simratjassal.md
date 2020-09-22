@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Mehngi piyo sasti nai, Goli beta masti nai
 Use the left arrow to go back!
